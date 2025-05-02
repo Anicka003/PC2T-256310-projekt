@@ -1,0 +1,6 @@
+1.Stáhnout sqlite-jdbc-3.49.1.0.jar z:
+https://github.com/xerial/sqlite-jdbc/releases
+2.Rozbalit
+3.Přidat do projektu Eclipse: Pravým na název projektu -> Properties -> Java Build Path -> Libraries -> zmáčknout Modulepath -> AddExterna JARs -> vybrat stažení .jar soubor
+
+Do module-info.java přidat: requires java.sql;
