@@ -1,0 +1,9 @@
+9;Otakar;David;2006;T;1,1
+7;Cyril;Haupt;2003;K;1,2
+10;Jan;Haupt;2007;T;2,2
+8;Jitka;Horníčková;2005;T;2,3
+3;Jan;Horák;2002;K;1,4
+6;Lucie;Košťálová;2005;K;2,1
+4;Petr;Novák;2001;K;2,1
+5;Andrea;Pokorná;2004;K;1,3
+11;Olivie;Zedníková;2003;T;1,2
